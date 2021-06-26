@@ -14,15 +14,12 @@ Let's get started!
 
 **NovaRails** provides a fun, bright palette:
 
-![](https://nova.app/images/en/dark/editor.png)
+![](https://raw.githubusercontent.com/44brm/NovaRails/master/NovaRails-preview.png)
 
 <!--
 🎈 If your extension provides multiple variations, don't forget to show those too!
 -->
 
-NovaRails also offers a lighter alternative:
-
-![](https://nova.app/images/en/light/editor.png)
 
 ## Acknowledgements
 
