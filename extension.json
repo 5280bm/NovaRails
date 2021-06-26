@@ -1,0 +1,8 @@
+{
+  "identifier": "railscoder.NovaRails",
+  "name": "NovaRails",
+  "organization": "Railscoder",
+  "description": "Based on the original Palette theme (pre-Nova 7) but with enhanced syntax highlighting - great for Rails development",
+  "version": "1.0",
+  "categories": ["themes"]
+}
