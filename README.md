@@ -12,7 +12,7 @@ Let's get started!
 🎈 To give users an idea of what your theme looks like, it's a great idea to show big, beautiful screenshots of your theme in action:
 -->
 
-**NovaRails** provides a fun, bright palette:
+**NovaRails** is based on the original Palette Theme (pre-Nova 7). This brings back the red, yellow, and blues! But, it also adds enhanced syntax highlighting making coding in Rails look awesome! Check out the added highlights for Ruby and ERB files. 
 
 ![](https://raw.githubusercontent.com/44brm/NovaRails/master/NovaRails-preview.png)
 
