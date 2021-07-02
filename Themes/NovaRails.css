@@ -109,12 +109,19 @@ invalid {
   background-color: red;
 }
 
-value.boolean,
+value.boolean {
+  color: hsl(205, 70%, 51%);
+}
+
+
 value.null,
 value.number {
   color: hsl(305, 63%, 67%);
 }
-value.entity,
+value.entity {
+  color: hsl(305, 63%, 67%);
+}
+
 value.symbol {
   color: hsl(305, 63%, 67%);
 }
@@ -180,6 +187,9 @@ string.escaped,
 regex.escaped {
   color: hsl(258, 47%, 53%);
 }
+
+
+
 string.key {
   color: hsl(305, 63%, 67%);
 }
@@ -227,6 +237,8 @@ markup.image {
 tag {
   color: hsl(190, 72%, 68%);
 }
+
+
 tag.attribute.name {
   color: hsl(205, 70%, 51%);
 }
