@@ -133,7 +133,7 @@ identifier.variable {
   color: hsl(44, 100%, 60%);
 }
 identifier.type {
-  color: hsl(205, 83%, 64%);
+  color: hsl(44, 100%, 60%);
 }
 identifier.global {
   color: hsl(305, 63%, 67%);
@@ -141,10 +141,16 @@ identifier.global {
 identifier.function {
   color: hsl(190, 72%, 68%);
 }
+
+
 identifier.property {
   color: hsl(190, 72%, 68%); /* Adjusted from hsl(190, 72%, 68%) */
 }
+
 identifier.method {
+  color: hsl(205, 83%, 64%);
+}
+identifier.core.method {
   color: hsl(190, 72%, 68%);
 }
 identifier.key {
@@ -157,7 +163,11 @@ identifier.name {
    
 }
 identifier.type.superclass {
-  color: hsl(44, 100%, 60%);
+  color: hsl(205, 83%, 64%);
+}
+
+identifier.class.type.name {
+  color: hsl(190, 72%, 68%);
 }
 
 identifier.class.type.module.name {
@@ -165,7 +175,7 @@ identifier.class.type.module.name {
 }
 
 identifier.type.superclass.module {
-  color: hsl(190, 72%, 68%);
+  color: hsl(44, 100%, 60%);
 }
 
 collection.array {
